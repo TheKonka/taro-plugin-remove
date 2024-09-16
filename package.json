@@ -1,0 +1,36 @@
+{
+  "name": "taro-plugin-remove",
+  "version": "0.0.3",
+  "description": "Taro组件属性精简插件",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taro",
+    "plugin"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/TheKonka/taro-plugin-remove",
+  "bugs": {
+    "url": "https://github.com/TheKonka/taro-plugin-remove/issues",
+    "email": "1094918@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheKonka/taro-plugin-remove"
+  },
+  "author": {
+    "name": "konka",
+    "email": "1094918@gmail.com",
+    "url": "https://github.com/TheKonka"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@tarojs/service": "^4.0.5",
+    "typescript": "^5.6.2"
+  }
+}
